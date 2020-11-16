@@ -72,7 +72,7 @@ Estos son datos que te proponemos:
   - [Investigación con seguidores de Rick and Morty](src/data/rickandmorty/README.md)
 
 * [Juegos Olímpicos de Río de Janeiro](src/data/athletes/athletes.json).
-  Este set nos proporciona la lista de los athletes que ganaron medallas en las
+  Este set nos proporciona la lista de los atletas que ganaron medallas en las
   olímpiadas de Río de Janeiro.
   - [Investigación con interesados en juegos olímpicos de Río de Janeiro](/src/data/athletes/README.md)
 
