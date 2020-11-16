@@ -23,3 +23,5 @@ usuários, é importante saber quantos e quais são
 - Nos jogos olímpicos sempre há equipes ou atletas que vencem diferentes
 disciplinas, para os nossos usuários é importante saber quem eles são e quantos
 são as medalhas que eles ganharam
+- Além disso, nossos usuários gostariam de saber o número de mulheres
+atletas que participaram e ganharam medalhas.

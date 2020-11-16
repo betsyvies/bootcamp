@@ -71,8 +71,8 @@ Estos son datos que te proponemos:
   Morty. [API Rick and Morty](https://rickandmortyapi.com).
   - [Investigación con seguidores de Rick and Morty](src/data/rickandmorty/README.md)
 
-* [Juegos Olímpicos de Río de Janeiro](src/data/atletas/athletes.json).
-  Este set nos proporciona la lista de los atletas que ganaron medallas en las
+* [Juegos Olímpicos de Río de Janeiro](src/data/athletes/athletes.json).
+  Este set nos proporciona la lista de los athletes que ganaron medallas en las
   olímpiadas de Río de Janeiro.
   - [Investigación con interesados en juegos olímpicos de Río de Janeiro](/src/data/athletes/README.md)
 
@@ -266,9 +266,9 @@ como toda la configuración de dependencias:
 |  |     ├── rickandmorty.js
 |  |     └── rickandmorty.json
 |  |     └── README.md
-|  |  └── atletas
-|  |     ├── atletas.js
-|  |     └── atletas.json
+|  |  └── athletes
+|  |     ├── athletes.js
+|  |     └── athletes.json
 |  |     └── README.md
 |  ├── data.js
 |  ├── index.html
