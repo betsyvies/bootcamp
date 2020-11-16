@@ -1,9 +1,9 @@
 # Juegos Olímpicos de Río de Janeiro
 
-Juegos Olímpicos de Río de Janeiro, fue un evento multideportivo internacional,
+Juegos Olímpicos de Río de Janeiro, fueron un evento multideportivo internacional,
 celebrado en la ciudad de Río de Janeiro, Brasil. La elección de Río marcó la
 primera vez que se realiza en un país sudamericano. Este evento tuvo gran
-acogidaa nivel mundial, de todas estas personas hay un grupo que desea poder
+acogida a nivel mundial, de todas estas personas hay un grupo que desea poder
 interactuar y ver la información de los atletas, los deportes olímpicos y los
 países que participaron.
 
